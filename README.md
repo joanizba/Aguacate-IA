@@ -199,7 +199,7 @@
 
 ###
 
-<h2 align="left">4.1</h2>
+<h2 align="left">4.1 Cohortes Basadas en Precios Promedios Trimestrales</h2>
 
 ###
 
@@ -217,7 +217,7 @@
 
 ###
 
-<h2 align="left">4.2</h2>
+<h2 align="left">4.2 Cohortes por Región y Fecha</h2>
 
 ###
 
@@ -243,7 +243,7 @@
 
 ###
 
-<h2 align="left">4.3</h2>
+<h2 align="left">4.3 Análisis de Cohortes en Función del Tipo de Bolsa</h2>
 
 ###
 
@@ -270,7 +270,7 @@
 
 ###
 
-<h2 align="left">5.1</h2>
+<h2 align="left">5.1 Matriz de Correlación</h2>
 
 ###
 
@@ -289,7 +289,7 @@
 
 ###
 
-<h2 align="left">5.2</h2>
+<h2 align="left">5.2 Análisis de Dispersión entre Variables Clave</h2>
 
 ###
 
@@ -306,7 +306,7 @@
 
 ###
 
-<h2 align="left">5.3</h2>
+<h2 align="left">5.3 Predicciones Mensuales Usando Datos Trimestrales</h2>
 
 ###
 
@@ -329,7 +329,7 @@
 
 ###
 
-<h2 align="left">5.4</h2>
+<h2 align="left">5.4 Modelos de Regresión para Diferenciar Volúmenes de Ventas</h2>
 
 ###
 
@@ -353,7 +353,7 @@
 
 </div>
 ###
-<h2 align="left">5.5</h2>
+<h2 align="left">5.5  Análisis de la Influencia de las Ventas Totales en el Precio Promedio</h2>
 
 ###
 
