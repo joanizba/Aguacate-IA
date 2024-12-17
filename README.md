@@ -184,7 +184,9 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  
+  ![3 2](https://github.com/user-attachments/assets/39e9a51b-a2f7-4394-9020-61f4f5afb1fa)
+
 </div>
 
 ###
@@ -198,7 +200,9 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  
+  ![3 3](https://github.com/user-attachments/assets/d779e538-aedc-4f42-bcf5-5baea805477b)
+
 </div>
 
 <h2 align="left">3.4 Análisis de la Elasticidad Precios-Ventas</h2>
@@ -210,7 +214,9 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  
+![3 4](https://github.com/user-attachments/assets/1244d70f-0b48-43af-951d-ca87a4f07138)
+
 </div>
 
 ###
