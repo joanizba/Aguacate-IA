@@ -17,7 +17,45 @@
 <h1 align="left">Planificación</h1>
 
 ###
-<p align="left">En este trabajo, hemos dividido las tareas en tres categorías: pendientes, en progreso y completadas. Entre las tareas pendientes tenemos el análisis de series temporales, donde descompondremos los precios de los aguacates para identificar tendencias y estacionalidades; la creación de gráficos para la visualización de datos, que nos permitirá presentar los resultados de manera clara; y el cálculo de la elasticidad del precio, para entender cómo los cambios en los precios afectan la demanda. En las tareas en progreso, estamos trabajando en la matriz de correlación para explorar las relaciones entre variables clave, el análisis de dispersión entre variables, que nos ayudará a visualizar cómo se distribuyen los datos, y las predicciones mensuales, trimestrales y anuales, que nos permitirán anticipar el comportamiento del mercado. Finalmente, en las tareas completadas, ya hemos desarrollado el gráfico de violín del volumen de ventas por región, un gráfico de líneas de precios promedio por año, y el análisis de cambios en precios anuales, lo que nos da una visión clara de las fluctuaciones del mercado. Con esta planificación, esperamos completar las tareas pendientes y lograr un análisis exhaustivo que nos permita hacer recomendaciones informadas sobre la venta de aguacates.
+<p align="left"># Planificación y Progreso del Análisis de Aguacates
+
+En este trabajo, hemos organizado las tareas en **tres categorías**: **pendientes**, **en progreso** y **completadas**.
+
+---
+
+## **1. Tareas Pendientes**
+- **Análisis de series temporales**:  
+  Descompondremos los precios de los aguacates para identificar **tendencias** y **estacionalidades**.  
+- **Creación de gráficos para visualización de datos**:  
+  Nos permitirá **presentar los resultados de manera clara y comprensible**.  
+- **Cálculo de la elasticidad del precio**:  
+  Ayudará a entender cómo los **cambios en los precios** afectan la **demanda** de los aguacates.  
+
+---
+
+## **2. Tareas en Progreso**
+- **Matriz de correlación**:  
+  Estamos explorando las **relaciones entre variables clave**.  
+- **Análisis de dispersión entre variables**:  
+  Facilitará visualizar cómo se distribuyen los **datos**.  
+- **Predicciones (mensuales, trimestrales y anuales)**:  
+  Nos permitirá **anticipar el comportamiento del mercado**.  
+
+---
+
+## **3. Tareas Completadas**
+- **Gráfico de violín del volumen de ventas por región**:  
+  Proporciona una visión detallada de cómo varía el **volumen de ventas** en diferentes regiones.  
+- **Gráfico de líneas de precios promedio por año**:  
+  Permite observar la **evolución** de los precios a lo largo del tiempo.  
+- **Análisis de cambios en precios anuales**:  
+  Ofrece una visión clara de las **fluctuaciones del mercado**.  
+
+---
+
+## **Conclusión**
+Con esta planificación, esperamos completar las **tareas pendientes** y lograr un **análisis exhaustivo** que nos permita hacer **recomendaciones informadas** sobre la venta de aguacates.
+
 <div align="center">
 
 
@@ -304,65 +342,65 @@ En conclusión, mientras que el incremento de 2016 a 2017 fue impulsado principa
 ###
 
 <p align="left">
-  - Introducción:
-La gráfica muestra la elasticidad precio-demanda promedio para tres regiones: Spokane, Hartford-Springfield y New York. Por otro lado, la elasticidad negativa indica que, al subir el precio, la demanda disminuye.
-</p>
-<br>
-<p align="left">
-Explicación de la Elasticidad Precio-Demanda:
-  <br>
-  Spokane:
-  <br>
-      - Elasticidad promedio ≈ -35.
-  <br>
-      - La demanda en esta región es menos elástica, es decir, menos sensible a los cambios de precio.
-  <br>
-      - Esto podría sugerir que los consumidores en Spokane dependen menos del precio o tienen menos opciones de sustitutos.
-  <br>
-  Hartford-Springfield:
-  <br>
-      - Elasticidad promedio ≈ -55.
-  <br>
-      - La demanda en esta región es más sensible a las variaciones de precio que en Spokane.
-  <br>
-      - Esto indica un comportamiento más reactivo ante aumentos o disminuciones en los precios.
-  <br>
-  New York:
-  <br>
-      - Elasticidad promedio ≈ -58.
-  <br>
-      - Es la región con la demanda más elástica, mostrando la mayor sensibilidad a cambios de precio.
-  <br>
-      - Esto sugiere un mercado más competitivo o consumidores más atentos al precio.
-  <br>
-  Spokane: 
-    - La elasticidad de -35. 
-    - Menor sensibilidad al precio.
-    - Sugiere un mercado más estable ante fluctuaciones.
-  <br>
-</p>
-<p align="left">
-  * Comparación entre Regiones
-  <br>
-  Hartford-Springfield: 
-  <br>
-    - Elasticidad intermedia de -55, reflejando una sensibilidad moderada.
-  <br>
-  New York:
-  <br>
-    - Máxima sensibilidad con -58, lo que indica que los consumidores ajustan más su consumo cuando los precios cambian.
-  <br>
-Interpretación General:
-  <br>
-  Spokane: Posiblemente sufre menor competencia o dependencia del producto.
-  <br>
-  New York: Mayor disponibilidad de alternativas o mayor conciencia de precios.
-  <br>
-Conclusión:
-  <br>
-  - Las regiones con alta elasticidad (como New York) deben tener estrategias de precios cuidadosas, ya que un aumento significativo podría reducir la demanda. Y en regiones con baja elasticidad (como Spokane), los consumidores son menos reactivos al precio, lo que sugiere un mercado más estable.
-</p>
-<br>
+## Título
+**Elasticidad Precio-Demanda por Región**
+
+---
+
+## Introducción
+- La **elasticidad precio-demanda** mide cómo cambia la **demanda** cuando varía el **precio**.
+- **Valores negativos** son normales, ya que, al subir el precio, la demanda tiende a bajar.
+- **Objetivo de la gráfica**: Comparar la elasticidad promedio en tres regiones:
+  - **Spokane**
+  - **Hartford-Springfield**
+  - **New York**
+
+---
+
+## Explicación de la Gráfica
+- En el **eje X** se representan las **regiones**.
+- En el **eje Y** están los **valores de elasticidad promedio** (negativos).
+- Las barras muestran:
+  - **Spokane** ≈ **-35**
+  - **Hartford-Springfield** ≈ **-55**
+  - **New York** ≈ **-58**
+
+---
+
+## Interpretación de Resultados
+- **Spokane**:
+  - Elasticidad promedio ≈ **-35**
+  - La demanda es **poco sensible** a los cambios de precio.
+  - Puede significar que hay **menos alternativas** o que el producto es **esencial** en esta región.
+- **Hartford-Springfield**:
+  - Elasticidad promedio ≈ **-55**
+  - La demanda es **más sensible** que en Spokane.
+  - Los consumidores **reaccionan más** cuando cambia el precio.
+- **New York**:
+  - Elasticidad promedio ≈ **-58**
+  - Es la región **más elástica**, con la mayor sensibilidad al precio.
+  - Sugiere un mercado **más competitivo** o con **mayores sustitutos** disponibles.
+
+---
+
+## Comparación entre Regiones
+| **Región**                | **Elasticidad Promedio** | **Sensibilidad**       |
+|---------------------------|--------------------------|------------------------|
+| **Spokane**               | -35                      | Baja sensibilidad      |
+| **Hartford-Springfield**  | -55                      | Sensibilidad moderada  |
+| **New York**              | -58                      | Alta sensibilidad      |
+
+---
+
+## Conclusión
+- **New York**: La demanda es más **sensible** debido a una mayor **competencia** o **sustitutos** disponibles.
+- **Spokane**: La demanda es **menos sensible**, mostrando **estabilidad** ante cambios de precios.
+- **Hartford-Springfield**: Se encuentra en un **punto intermedio**.
+
+### Reflexión Final:
+- Las regiones con **alta elasticidad** (como **New York**) deben tener estrategias de precios cuidadosas, ya que un aumento significativo podría reducir la demanda.
+- En regiones con **baja elasticidad** (como **Spokane**), los consumidores son **menos reactivos** al precio, lo que sugiere un **mercado más estable**.
+###
 <div align="center">
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
@@ -373,8 +411,65 @@ Conclusión:
 
 ###
 
-<p align="left">Hello World!!</p>
+# Elasticidad Precio-Demanda por Tipo de Aguacate
 
+---
+
+## 1. Introducción: Contextualización
+- **Inicio**:  
+  En esta gráfica estamos analizando la **elasticidad precio-demanda** para dos tipos de aguacate: el **convencional** y el **orgánico**.  
+  La elasticidad precio-demanda mide cómo **reacciona la cantidad demandada** de un bien cuando **cambia el precio**.
+
+- **Definición breve**:  
+  - Si la elasticidad es **negativa**, significa que al aumentar el precio, la demanda **disminuye** (bien normal).  
+  - Si es **positiva**, indica que al aumentar el precio, la demanda también **aumenta** (bien Giffen o de lujo).
+
+---
+
+## 2. Descripción de la Gráfica
+- **Ejes**:  
+  - En el **eje X** (horizontal) se encuentran los dos tipos de aguacate: **convencional** y **orgánico**.  
+  - En el **eje Y** (vertical) se representa la **elasticidad promedio**.
+
+- **Barras**:  
+  - La **barra verde** representa la elasticidad promedio del aguacate **convencional**.  
+  - La **barra naranja** representa la elasticidad promedio del aguacate **orgánico**.
+
+---
+
+## 3. Análisis de Resultados
+- **Elasticidad del aguacate convencional** (barra verde):  
+  - Observamos que tiene un valor **negativo**, aproximadamente **-6**.  
+  - Esto indica que el aguacate convencional tiene una **alta elasticidad negativa**, es decir, es **muy sensible** a los cambios en precio. Si el precio sube, la demanda cae drásticamente.
+
+- **Elasticidad del aguacate orgánico** (barra naranja):  
+  - Por otro lado, el aguacate orgánico presenta una elasticidad **positiva** cercana a **4.5**.  
+  - Esto indica un **comportamiento opuesto**, ya que al subir el precio, la demanda **aumenta**, lo que sugiere que se percibe como un **bien de lujo** o exclusivo.
+
+---
+
+## 4. Interpretación de los Resultados
+- **Comportamiento del Consumidor**:  
+  - El aguacate **convencional** es un producto básico con alta elasticidad negativa porque los consumidores pueden buscar alternativas si el precio sube demasiado.  
+  - Por el contrario, el aguacate **orgánico** podría representar un **bien de lujo**, ya que los consumidores están dispuestos a pagar precios más altos, posiblemente por sus características percibidas de **salud, sostenibilidad o exclusividad**.
+
+- **Importancia Económica**:  
+  Esto es crucial para los productores y vendedores. Si quieren ajustar precios, deben tener en cuenta que:  
+  - Un aumento en el precio del aguacate **convencional** puede reducir sus ventas **significativamente**.  
+  - Un aumento en el precio del aguacate **orgánico** podría incluso **aumentar su demanda**.
+
+---
+
+## 5. Cierre y Conclusión
+- **Conclusión General**:  
+  En resumen, esta gráfica muestra que los consumidores responden de manera **muy diferente** al precio según el tipo de aguacate.  
+  - El aguacate **convencional** tiene una **alta elasticidad negativa**.  
+  - El aguacate **orgánico** presenta una **elasticidad positiva**, típica de productos percibidos como lujosos o exclusivos.
+
+- **Mensaje Final**:  
+  Comprender esta diferencia puede ayudar a los productores y comerciantes a tomar **decisiones estratégicas** sobre precios y enfoques de mercado.
+
+---
 ###
 
 <div align="center">
@@ -386,7 +481,7 @@ Conclusión:
 ###
 
 <p align="left">
-## Elementos de la Gráfica
+### Elementos de la Gráfica
 
 ### **Eje X (horizontal):**
 - Representa el **cambio porcentual en el precio**.  
