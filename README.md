@@ -312,7 +312,8 @@ Modelo más flexible que captura mejor la curvatura en la relación, Ajuste supe
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">El gráfico principal muestra los datos de entrenamiento y prueba, Puntos azules datos entrenamiento, Puntos naranjas dataos evaluativos.
+pendiente negativa, lo que indica que a medida que Total Volume aumenta, AveragePrice tiende a disminuir modelo no captura bien la variabilidad.</p>
 
 ###
 
@@ -323,12 +324,13 @@ Modelo más flexible que captura mejor la curvatura en la relación, Ajuste supe
 
 </div>
 <div align="center">
-
+<p align="left">El Error Porcentual varía considerablemente, con valores negativos y positivos, lo que indica subestimación y sobreestimación en diferentes puntos. El modelo no predice con alta precisión, ya que los errores no son pequeños y están dispersos. </p>
 
 ![5 3 a](https://github.com/user-attachments/assets/06274cfb-95da-4ae3-aa4e-7de6a8f6308a)
 
 </div>
-
+<p align="left">Un valor de 0.8275 indica que hay una desviación significativa </p>
+<p align="left">Un valor de 0.1782 significa que el modelo solo explica el 17.82% de la variabilidad </p>
 ###
 
 <h2 align="left">5.4 Modelos de Regresión para Diferenciar Volúmenes de Ventas</h2>
