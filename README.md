@@ -179,9 +179,6 @@ Este comportamiento puede estar relacionado con varios factores externos que inf
 - **Problemas de producción o climáticos**: Factores como sequías o heladas pueden reducir la producción de aguacates, lo que lleva a un aumento en los precios debido a la menor disponibilidad.  
 - **Aumento de la demanda internacional**: Si hay un aumento en la demanda de aguacates en mercados internacionales, como Estados Unidos o Europa, esto puede generar una presión al alza en los precios.
 
-## Planificación de mi Trabajo
-Para analizar estos patrones en mi trabajo, investigaré más sobre los factores que pudieron haber influido en estas fluctuaciones de precios. Buscaré datos históricos y artículos que me ayuden a entender mejor la relación entre estos cambios y eventos específicos en el mercado. Además, utilizaré herramientas estadísticas para profundizar en las tendencias y estudiar la influencia de aspectos como la producción y la exportación.
-
 ## Conclusión
 En resumen, el gráfico muestra una gran variabilidad en los precios de los aguacates a lo largo de los años. Este análisis me permitirá identificar las causas detrás de estas fluctuaciones y cómo impactan en el mercado. Al comprender estos factores, será posible proponer estrategias para estabilizar los precios en el futuro.
 
