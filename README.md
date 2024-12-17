@@ -53,7 +53,7 @@
 
 ###
 
-<h2 align="left">1.3</h2>
+<h2 align="left">1.1 Descomposición de Series Temporales de Precios</h2>
 
 ###
 
@@ -67,7 +67,7 @@
 
 ###
 
-<h2 align="left">1.4</h2>
+<h2 align="left">1.2 Tendencia de Ventas a lo Largo del Tiempo</h2>
 
 ###
 
@@ -81,7 +81,7 @@
 
 ###
 
-<h2 align="left">1.6</h2>
+<h2 align="left">1.3 Comparación de Precios Promedio Mensuales</h2>
 
 ###
 
@@ -153,7 +153,7 @@
 
 ###
 
-<h1 align="left">3.1</h1>
+<h1 align="left">3.1 Elasticidad Precio-Demanda por Año</h1>
 
 ###
 
@@ -167,7 +167,7 @@
 
 ###
 
-<h2 align="left">3.2</h2>
+<h2 align="left">3.2 Comparación de Elasticidad en Diferentes Mercados</h2>
 
 ###
 
@@ -181,7 +181,19 @@
 
 ###
 
-<h2 align="left">3.3</h2>
+<h2 align="left">3.3 Análisis de Elasticidad Comparativa entre Orgánicos y Convencionales</h2>
+
+###
+
+<p align="left">Hello World!!</p>
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
+<h2 align="left">3.4 Análisis de la Elasticidad Precios-Ventas</h2>
 
 ###
 
