@@ -161,21 +161,7 @@
 
 ###
 
-<h1 align="left">3.1 Elasticidad Precio-Demanda por Año</h1>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
-
-<h2 align="left">3.2 Comparación de Elasticidad en Diferentes Mercados</h2>
+<h2 align="left">3.1 Comparación de Elasticidad en Diferentes Mercados</h2>
 
 ###
 
@@ -191,7 +177,7 @@
 
 ###
 
-<h2 align="left">3.3 Análisis de Elasticidad Comparativa entre Orgánicos y Convencionales</h2>
+<h2 align="left">3.2 Análisis de Elasticidad Comparativa entre Orgánicos y Convencionales</h2>
 
 ###
 
@@ -205,7 +191,7 @@
 
 </div>
 
-<h2 align="left">3.4 Análisis de la Elasticidad Precios-Ventas</h2>
+<h2 align="left">3.3 Análisis de la Elasticidad Precios-Ventas</h2>
 
 ###
 
