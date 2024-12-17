@@ -337,7 +337,7 @@ Modelo más flexible que captura mejor la curvatura en la relación, Ajuste supe
 
 <p align="left">regresión lineal muestra las predicciones frente a los valores reales de AveragePrice. Los puntos azules siguen una tendencia lineal débil alrededor de la línea diagonal (que indica la predicción perfecta). Esto sugiere que el modelo tiene dificultades para ajustar bien los datos, especialmente cuando se trata de valores reales más altos, ya que no captura correctamente la dispersión de los precios en esas áreas.</p>
 <p align="left">regresión polinómica muestra cómo las predicciones se ajustan mejor a los valores reales de AveragePrice. Los puntos rojos se acercan más a la línea diagonal, indicando un ajuste más preciso en comparación con el modelo lineal. Este modelo parece capturar mejor la variabilidad de los datos, logrando una representación más adecuada de las relaciones entre los valores reales y las predicciones.</p>
-###
+
 
 <div align="center">
 
