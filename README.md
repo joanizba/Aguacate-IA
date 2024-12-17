@@ -309,51 +309,56 @@ La gráfica muestra la elasticidad precio-demanda promedio para tres regiones: S
 </p>
 <br>
 <p align="left">
-  - Explicación de la Elasticidad Precio-Demanda:
+Explicación de la Elasticidad Precio-Demanda:
   <br>
-  - Spokane:
+  Spokane:
   <br>
-    - Elasticidad promedio ≈ -35.
+      - Elasticidad promedio ≈ -35.
   <br>
-    - La demanda en esta región es menos elástica, es decir, menos sensible a los cambios de precio.
+      - La demanda en esta región es menos elástica, es decir, menos sensible a los cambios de precio.
   <br>
-    - Esto podría sugerir que los consumidores en Spokane dependen menos del precio o tienen menos opciones de sustitutos.
+      - Esto podría sugerir que los consumidores en Spokane dependen menos del precio o tienen menos opciones de sustitutos.
   <br>
-  - Hartford-Springfield:
+  Hartford-Springfield:
   <br>
-    - Elasticidad promedio ≈ -55.
+      - Elasticidad promedio ≈ -55.
   <br>
-    - La demanda en esta región es más sensible a las variaciones de precio que en Spokane.
+      - La demanda en esta región es más sensible a las variaciones de precio que en Spokane.
   <br>
-    - Esto indica un comportamiento más reactivo ante aumentos o disminuciones en los precios.
+      - Esto indica un comportamiento más reactivo ante aumentos o disminuciones en los precios.
   <br>
-  - New York:
+  New York:
   <br>
-    - Elasticidad promedio ≈ -58.
+      - Elasticidad promedio ≈ -58.
   <br>
-    - Es la región con la demanda más elástica, mostrando la mayor sensibilidad a cambios de precio.
+      - Es la región con la demanda más elástica, mostrando la mayor sensibilidad a cambios de precio.
   <br>
-    - Esto sugiere un mercado más competitivo o consumidores más atentos al precio.
+      - Esto sugiere un mercado más competitivo o consumidores más atentos al precio.
   <br>
-    - Spokane: Menor sensibilidad al precio. La elasticidad de -35 sugiere un mercado más estable ante fluctuaciones.
+  Spokane: 
+    - La elasticidad de -35. 
+    - Menor sensibilidad al precio.
+    - Sugiere un mercado más estable ante fluctuaciones.
   <br>
 </p>
 <p align="left">
-  - Comparación entre Regiones
+  * Comparación entre Regiones
   <br>
-  - Hartford-Springfield: 
+  Hartford-Springfield: 
   <br>
     - Elasticidad intermedia de -55, reflejando una sensibilidad moderada.
   <br>
-    - New York: Máxima sensibilidad con -58, lo que indica que los consumidores ajustan más su consumo cuando los precios cambian.
+  New York:
   <br>
--Interpretación General:
+    - Máxima sensibilidad con -58, lo que indica que los consumidores ajustan más su consumo cuando los precios cambian.
   <br>
-  - Spokane: Posiblemente sufre menor competencia o dependencia del producto.
+Interpretación General:
   <br>
-  - New York: Mayor disponibilidad de alternativas o mayor conciencia de precios.
+  Spokane: Posiblemente sufre menor competencia o dependencia del producto.
   <br>
--Conclusión:
+  New York: Mayor disponibilidad de alternativas o mayor conciencia de precios.
+  <br>
+Conclusión:
   <br>
   - Las regiones con alta elasticidad (como New York) deben tener estrategias de precios cuidadosas, ya que un aumento significativo podría reducir la demanda. Y en regiones con baja elasticidad (como Spokane), los consumidores son menos reactivos al precio, lo que sugiere un mercado más estable.
 </p>
