@@ -385,7 +385,51 @@ Conclusión:
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">
+## Elementos de la Gráfica
+
+### **Eje X (horizontal):**
+- Representa el **cambio porcentual en el precio**.  
+- Valores **negativos** indican **disminuciones de precio**.  
+- Valores **positivos** indican **aumentos de precio**.  
+
+### **Eje Y (vertical):**
+- Representa el **cambio porcentual en el volumen de ventas**.  
+- Valores **más altos** indican un **aumento considerable en las ventas**.  
+- Valores **bajos** indican **cambios menores o ninguna variación** en las ventas.  
+
+### **Puntos Azules:**
+- Cada punto muestra **cómo cambia el volumen de ventas** en relación con un **cambio en el precio**.  
+- La **dispersión de los puntos** muestra la **variabilidad** de la relación entre precio y ventas.  
+
+### **Línea Roja (tendencia):**
+- Es una línea de **ajuste lineal** que resume la **tendencia general** de los datos.  
+- Si la línea tiene **pendiente negativa**, indica una **relación inversa**:  
+  - Al **subir el precio**, **bajan las ventas**.  
+## Interpretación de la Gráfica
+
+### **Tendencia General:**
+- La **línea roja** parece tener una **pendiente ligeramente negativa**, lo que sugiere que **a medida que aumenta el precio**, el **volumen de ventas** tiende a **disminuir**.  
+- Esta relación es típica en **bienes elásticos** donde la **demanda** responde a los cambios de precio.
+
+### **Observaciones Dispersas:**
+- La mayoría de los **puntos azules** están cerca de la **línea horizontal** (cambio porcentual de ventas ≈ 0).  
+  - Esto indica que, en muchos casos, los **cambios en el precio** no tienen un gran impacto en las ventas.  
+- Algunos puntos **muy elevados** (valores grandes en Y) representan **casos atípicos** donde un **pequeño cambio de precio** resultó en un gran aumento de ventas.
+
+### **Cambios Negativos en Precio (Izquierda del eje X):**
+- Cuando los **precios bajan**, se observan casos donde las **ventas aumentan significativamente**.  
+  - Esto podría indicar que los **consumidores responden favorablemente** a las **reducciones de precios**.
+
+### **Cambios Positivos en Precio (Derecha del eje X):**
+- Al **aumentar los precios**, las **ventas** tienden a **mantenerse bajas** o **caer**.  
+  - Este comportamiento respalda la idea de que la **demanda es sensible al precio**.
+
+### **Conclusión General:**
+- Existe una **relación inversa débil** entre el cambio en precio y el cambio en ventas:  
+  - **Al subir el precio**, las **ventas** tienden a **disminuir**.  
+  - **Al bajar el precio**, las **ventas** tienden a **aumentar**, aunque hay **mucha variabilidad en los datos**.  
+- La **dispersión de los puntos** indica que hay otros factores además del **precio** que afectan las ventas.
 
 ###
 
