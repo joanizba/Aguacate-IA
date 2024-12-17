@@ -83,7 +83,6 @@ Finalmente, los residuos son las fluctuaciones aleatorias que no se explican por
   - Conclusión:
 En resumen, la descomposición nos ayuda a entender cómo los precios varían por la tendencia general, los patrones estacionales y las fluctuaciones aleatorias, lo que es útil para análisis futuros.
 </p>
-###
 
 <div align="center">
 
@@ -118,12 +117,8 @@ Aunque no es tan marcado, podemos percibir una posible estacionalidad en las ven
   - Conclusión:
 En resumen, la gráfica ilustra cómo el volumen de ventas de aguacates ha fluctuado a lo largo del tiempo, con picos en ciertos meses y una tendencia creciente general. Estos datos son útiles para prever futuros patrones de demanda y para tomar decisiones estratégicas relacionadas con la distribución y los precios.
 </p>
-###
-###
 
 <p align="left">Hello World!!</p>
-
-###
 
 <div align="center">
 
@@ -138,7 +133,31 @@ En resumen, la gráfica ilustra cómo el volumen de ventas de aguacates ha fluct
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">
+  - Introducción:
+La gráfica muestra la tendencia del precio promedio mensual de los aguacates entre 2015 y 2018. Los puntos y líneas permiten ver las fluctuaciones de los precios a lo largo del tiempo.
+</p>
+<br>
+<p align="left">
+  - Fluctuaciones y Picos:
+Podemos observar una gran variabilidad en los precios a lo largo del tiempo, con caídas y subidas marcadas. Un detalle importante es el pico máximo que se alcanza en mediados de 2017, donde el precio supera los 1.8 dólares. Esto representa un aumento significativo en comparación con otros períodos.
+Por otro lado, también se nota una caída pronunciada entre finales de 2015 y principios de 2016, donde el precio llega a su punto más bajo, cercano a 1.2 dólares.
+</p>
+<br>
+<p align="left">
+  - Tendencia General:
+A lo largo de los años, la gráfica refleja una tendencia general ascendente en los precios, especialmente desde mediados de 2016 hasta 2017, donde se observa un incremento sostenido. Este comportamiento sugiere un aumento en la demanda o posibles factores externos que afectaron la disponibilidad del producto, como la producción o el mercado internacional.
+</p>
+<br>
+<p align="left">
+  - Ciclicidad:
+Aunque no es completamente regular, se pueden identificar patrones cíclicos en los precios, con períodos de caída seguidos de recuperación. Es posible que estos ciclos estén relacionados con factores estacionales, como la oferta limitada en ciertos meses o la mayor demanda en otros, lo cual explica las subidas y bajadas que se repiten parcialmente.
+</p>
+<br>
+<p align="left">
+  - Conclusión:
+En resumen, la gráfica muestra que los precios promedio mensuales de los aguacates presentan fluctuaciones importantes, con picos notables en 2017 y caídas destacadas en 2016. A pesar de estas variaciones, hay una tendencia general al alza, lo que podría indicar un aumento en la demanda a lo largo del tiempo. Estos datos son útiles para entender los patrones de precios y analizar cómo factores como la producción, el clima o el comercio afectan al mercado de los aguacates.
+</p>
 
 ###
 
@@ -159,7 +178,30 @@ En resumen, la gráfica ilustra cómo el volumen de ventas de aguacates ha fluct
 
 ###
 
-<p align="left">La distribución es uniforme y simétrica, con una alta concentración alrededor de la mediana, indicando que la mayoría de las ventas totales son intermedias. Los extremos delgados muestran pocos datos en valores muy bajos o muy altos, sugiriendo una distribución normal o ligeramente concentrada.</p>
+<p align="left">
+  - Introducción:
+La gráfica muestra la distribución del volumen total de ventas en una región seleccionada ("GreaterRegion"). Es una gráfica de violín que combina un diagrama de caja y un histograma suavizado para representar cómo se distribuyen los datos de ventas.
+</p>
+<br>
+<p align="left">
+  - Distribución de los Datos:
+Se observa que el volumen total de ventas está concentrado en un rango específico, con una mayor densidad alrededor de valores cercanos al centro de la distribución. La anchura del "violín" indica dónde se agrupan más los datos, mientras que en los extremos la densidad es menor.
+</p>
+<br>
+<p align="left">
+  - Variabilidad:
+La forma de la gráfica muestra que hay una variabilidad moderada en los volúmenes de ventas, con valores que van desde muy bajos hasta niveles más altos. Sin embargo, los datos tienden a concentrarse hacia la parte central, lo que sugiere que la mayoría de las ventas están en un rango medio.
+</p>
+<br>
+<p align="left">
+  - Valores Centrales:
+La línea central dentro del "violín" corresponde al rango intercuartil, donde se encuentran el 50% de los datos más cercanos al valor central (la mediana). Este rango es estrecho, indicando que los valores centrales de ventas no varían mucho.
+</p>
+<br>
+<p align="left">
+  - Conclusión:
+En resumen, la gráfica muestra que la distribución del volumen total de ventas en la región tiene una concentración clara en el centro, aunque existen valores extremos con menor frecuencia. Esto permite entender la dispersión y tendencia central de los datos, lo que es útil para analizar el comportamiento general de las ventas en la región seleccionada.
+</p>
 
 ###
 
@@ -171,12 +213,29 @@ En resumen, la gráfica ilustra cómo el volumen de ventas de aguacates ha fluct
 
 ###
 
-<h2 align="left">2.3 Boxplot Comparativo de Precios entre Años</h2>
+<h2 align="left">2.2 Boxplot Comparativo de Precios entre Años</h2>
 
 ###
 
-<p align="left">Un boxplot muestra la mediana, la dispersión central (IQR), el rango de los datos (bigotes) y los outliers (valores extremos), permitiendo identificar la simetría o sesgo de la distribución y comparar la dispersión y medianas entre categorías o variables.</p>
-
+<p align="left">
+  - Introducción:
+La gráfica muestra la distribución del precio promedio de aguacates por región entre los años de 2015 a 2018. Se trata de una gráfica de cajas (boxplot) que muestra la dispersión de los precios en cada región a lo largo de esos años. Cada color representa una región diferente, lo que facilita la comparación entre ellas.
+</p>
+<br>
+<p align="left">
+  - Distribución y Variabilidad:
+La gráfica muestra la distribución de los precios promedio de los aguacates por región. Las cajas representan el rango intercuartil y la mediana está marcada por la línea central. Los puntos fuera de la caja son valores atípicos. En general, los precios se concentran alrededor de la mediana, con algunas regiones como California mostrando precios más altos y otras como Great Lakes más bajos y estables.
+</p>
+<br>
+<p align="left">
+  - Tendencias y Patrones:
+En 2017, la variabilidad de precios fue mayor en muchas regiones, lo que puede haber sido causado por factores externos como cambios en la producción o la demanda. En 2015 y 2018, los precios fueron más constantes, lo que indica menos fluctuación.
+</p>
+<br>
+<p align="left">
+  - Conclusión:
+Este análisis nos da una visión detallada de cómo el precio promedio de los aguacates ha variado no solo en el tiempo, sino también dependiendo de la región. Esto es útil para prever futuras tendencias en el mercado y tomar decisiones basadas en cómo los precios se comportan en diferentes zonas del país.
+</p>
 ###
 
 <div align="center">
@@ -193,7 +252,31 @@ En resumen, la gráfica ilustra cómo el volumen de ventas de aguacates ha fluct
 <h2 align="left">2.3 Gráfico de Líneas de Precios Promedios por Año</h2>
 
 ###
-
+<p align="left">
+  - Tendencia:
+2015: El precio promedio comienza alrededor de 1,425.
+2016: Hay una ligera caída del precio promedio, bajando a aproximadamente 1,385.
+2017: Se produce un pico importante, donde el precio sube abruptamente hasta alrededor de 1,560, el valor más alto en toda la gráfica.
+2018: El precio vuelve a descender, situándose alrededor de 1,400.
+</p>
+<br>
+<p align="left">
+  - Posible explicación del pico en 2017:
+El aumento drástico del precio promedio en 2017 podría deberse a diferentes factores económicos o específicos del mercado, tales como:
+  
+- Incremento en la demanda: Una mayor demanda de bienes o servicios podría haber impulsado los precios.
+Reducción en la oferta: Si hubo menos oferta disponible en 2017, los precios habrían subido para equilibrar el mercado.
+<br>
+- Factores externos: Inflación, problemas logísticos, cambios en políticas o eventos extraordinarios (como crisis financieras o eventos naturales) pueden haber afectado los precios.
+<br>
+- Ciclos económicos: Los precios pueden tener patrones cíclicos, donde ciertos años registran picos por causas estacionales o estructurales.
+</p>
+<br>
+<p align="left">
+  - Conclusión:
+En resumen, el pico de 2017 indica un comportamiento atípico o una perturbación en el mercado, mientras que la tendencia general muestra cierta volatilidad en los precios promedio a lo largo del tiempo.
+</p>
+###
 ###
 
 <div align="center">
