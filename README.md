@@ -171,7 +171,9 @@ En resumen, la gráfica ilustra cómo el volumen de ventas de aguacates ha fluct
 
 <p align="left">
 ## Introducción
+
 Este gráfico muestra la evolución de los precios promedio mensuales de los aguacates entre 2015 y 2018. Los ejes son simples: el eje X representa los meses y años, mientras que el eje Y muestra los precios en dólares. Al observar el gráfico, podemos ver cómo los precios fluctúan a lo largo del tiempo.
+
 
 ## Presentación del Gráfico
 A lo largo del gráfico, se puede notar una clara variabilidad en los precios. Entre 2015 y principios de 2016, los precios experimentan una caída significativa, alcanzando su nivel más bajo. Sin embargo, en 2017 se observa un gran aumento, con un pico donde los precios superan los 1.8 dólares. Tras este aumento, los precios disminuyen nuevamente, pero nunca alcanzan los niveles bajos de 2016.
