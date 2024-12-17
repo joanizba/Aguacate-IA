@@ -39,7 +39,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  ![USA-regions_coloreado](https://github.com/user-attachments/assets/34b66502-bf5f-4a57-89da-f9ae0cd5ca88)
 </div>
 
 ###
