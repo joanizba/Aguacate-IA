@@ -293,8 +293,10 @@
 
 ###
 
-<p align="left">Hello World!!</p>
-
+<p align="left">Regresión lineal (rojo):
+Modelo simple que asume una relación lineal negativa, No captura bien la tendencia real de los datos debido a su simplicidad. Útil como referencia inicial o para datos estrictamente lineales.</p>
+<p align="left">Regresión polinómica de grado 2 (verde):
+Modelo más flexible que captura mejor la curvatura en la relación, Ajuste superior al modelo lineal, especialmente cuando los datos tienen una tendencia no lineal. Muestra que el precio promedio disminuye rápidamente al inicio y luego se estabiliza o sube en volúmenes altos.</p>
 ###
 
 <div align="center">
