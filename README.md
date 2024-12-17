@@ -138,8 +138,6 @@
 
 ###
 
-<p align="left">Hello World!!</p>
-
 ###
 
 <div align="center">
