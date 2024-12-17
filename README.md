@@ -203,7 +203,7 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">En esta grafica doble vemos como el precio medio y el volumen tienen una relacion, que esta es la de cuando sube uno baja el otro.</p>
 
 ###
 
