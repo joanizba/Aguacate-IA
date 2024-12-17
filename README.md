@@ -275,7 +275,8 @@
 ###
 
 <p align="left">Si seleccionamos las variables numéricas, podemos crear un grafo de tio heatmap para la matiz de coorrelación entre datos</p><br>
-<p align="left"> Total Volume esta ligeramente correlacionado con total bags y 4046 como 4225. Esto se debe que la ventea de los calibres de 4046 y 4225 defienen el volument de ventas</p>
+<p align="left"> Total Volume esta ligeramente correlacionado con total bags y 4046 como 4225. Esto se debe que la ventea de los calibres de 4046 y 4225 defienen el volument de ventas</p><br>
+<p align="left">El hecho de que estas variables estén altamente correlacionadas puede influir en el estudio dado que los modelos de regresión lineal con alta correlación entre sus variables pueden resultar altamente inestables, generar errores numéricos y un rendimiento de predicción muy deficiente.</p>
 
 ###
 
