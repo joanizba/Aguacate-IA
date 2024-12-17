@@ -62,7 +62,9 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+
+  ![1 1](https://github.com/user-attachments/assets/b68bb608-36fa-49dc-938e-3a791d9d1a6e)
+
 </div>
 
 ###
@@ -76,7 +78,10 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+
+![1 2](https://github.com/user-attachments/assets/11b491e9-8eb1-49ef-b6c5-8ef2c8450427)
+
+  
 </div>
 
 ###
@@ -90,7 +95,10 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+
+  ![1 3](https://github.com/user-attachments/assets/4091de00-a5db-40cf-b300-f76dc98dfa0b)
+
+
 </div>
 
 ###
