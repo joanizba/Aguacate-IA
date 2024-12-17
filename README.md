@@ -19,7 +19,8 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  ![image](https://github.com/user-attachments/assets/1762dcf3-9371-40b4-8dc9-21502c775159)
+
 </div>
 
 ###
