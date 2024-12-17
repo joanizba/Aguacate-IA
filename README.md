@@ -108,7 +108,8 @@
 ###
 
 <div align="center">
- ![2 1](https://github.com/user-attachments/assets/f4ec05c8-2f1e-4fe3-b590-b75a437e1b9b)
+
+![2 1](https://github.com/user-attachments/assets/ca1412b1-7f16-4343-892f-26f7314e689e)
 
 </div>
 
@@ -123,8 +124,13 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+
+
+![2 2](https://github.com/user-attachments/assets/dae79714-fed6-457e-89a3-35f5119d8b3c)
+
 </div>
+
+
 
 ###
 
@@ -137,7 +143,10 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+
+
+  ![2 3](https://github.com/user-attachments/assets/ec55f53b-cb00-4074-ba3e-31e800bcd153)
+
 </div>
 
 ###
@@ -201,7 +210,11 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+
+
+![4 1](https://github.com/user-attachments/assets/c6c086f7-b794-4260-a6ef-e4e57cc2b5ad)
+
+
 </div>
 
 ###
@@ -215,7 +228,19 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+
+
+
+
+![4 2 1](https://github.com/user-attachments/assets/106d6162-be2e-4464-a942-d7a229a09e29)
+
+ 
+</div>
+<div  align="center">
+
+
+  ![4 2 2](https://github.com/user-attachments/assets/5d8cd95e-6510-4844-b2e4-33e16e80a2de)
+
 </div>
 
 ###
@@ -229,7 +254,10 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+
+  
+  ![4 3](https://github.com/user-attachments/assets/881493f6-874d-41ba-bd06-4ceb60f8c857)
+
 </div>
 
 ###
