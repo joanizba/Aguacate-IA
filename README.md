@@ -343,7 +343,10 @@
 ![5 8](https://github.com/user-attachments/assets/3c68c45f-f992-4465-90d2-2474c219cc4e)
 
 </div>
-<p align="center"></p>
+<p align="left">El RMSE mide la precisión de las predicciones de un modelo</p><br>
+<p align="left">Un valor más bajo indica predicciones más cercanas a los valores reales. En este caso, el modelo polinómico tiene un RMSE de 0.8542, ligeramente más bajo que el modelo lineal (RMSE de 0.8634), lo que indica que el modelo polinómico tiene predicciones más precisas en promedio.</p><br>
+<p align="left">El R² mide cuánta variabilidad de los datos es explicada por el modelo</p><br>
+<p align="left"> Un valor más alto de R² indica un mejor ajuste. En este caso, el modelo polinómico tiene un R² de 0.2529, mayor que el modelo lineal (R² de 0.1257), lo que sugiere que el modelo polinómico captura mejor la variabilidad de los datos. Sin embargo, ambos valores son bajos, lo que indica que ninguno de los modelos explica una gran parte de la variabilidad, sugiriendo que podrían existir otros factores que influyen en los precios de los aguacates.</p>
 <div align="center">
 
   ![5 8 2](https://github.com/user-attachments/assets/bac7466c-b23f-473c-a1d1-80fd1529a251)
