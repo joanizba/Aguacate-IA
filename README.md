@@ -341,8 +341,7 @@ En conclusión, mientras que el incremento de 2016 a 2017 fue impulsado principa
 
 ###
 
-## Título
-**Elasticidad Precio-Demanda por Región**
+## Elasticidad Precio-Demanda por Región
 
 ---
 
