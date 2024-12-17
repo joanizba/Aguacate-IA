@@ -21,7 +21,8 @@
 <div align="center">
 
 
-![USA-regions_coloreado](https://github.com/user-attachments/assets/66da8efc-0d22-4f5b-99aa-13358bd1fbaf)
+![trello](https://github.com/user-attachments/assets/f5bbd595-eae2-4fbd-b817-340d01450caa)
+
 
 </div>
 
@@ -40,7 +41,10 @@
 ###
 
 <div align="center">
-  ![USA-regions_coloreado](https://github.com/user-attachments/assets/34b66502-bf5f-4a57-89da-f9ae0cd5ca88)
+
+![USA-regions_coloreado](https://github.com/user-attachments/assets/d8022082-0ab6-4849-9ed1-8d4006561a61)
+
+
 </div>
 
 ###
