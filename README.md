@@ -131,30 +131,20 @@ En resumen, la descomposición nos ayuda a entender cómo los precios varían po
 ###
 
 <h2 align="left">1.2 Tendencia de Ventas a lo Largo del Tiempo</h2>
-<p align="left">
-  - Introducción:
-Esta gráfica muestra la tendencia del volumen total de ventas de aguacates a lo largo del tiempo. Los puntos verdes representan los datos mensuales de ventas, conectados por líneas que permiten visualizar la evolución del volumen de ventas.
-</p>
-<br>
-<p align="left">
-  - Fluctuaciones y Picos:
-Podemos observar una gran variabilidad en los datos, con picos notables en ciertos momentos. Por ejemplo, se destacan picos altos en febrero de 2015, febrero de 2016 y febrero de 2017, lo que indica que en esos meses hubo un aumento significativo en las ventas de aguacates.
-</p>
-<br>
-<p align="left">
-  - Tendencia General:
-A pesar de los picos, podemos ver que el volumen de ventas tiene una tendencia general creciente después de 2015, con un incremento sostenido en los últimos años, lo que indica un aumento en la demanda de aguacates.
-</p>
-<br>
-<p align="left">
-  - Ciclicidad:
-Aunque no es tan marcado, podemos percibir una posible estacionalidad en las ventas, con algunos picos y valles que se repiten en ciertos meses del año, como en febrero y agosto.
-</p>
-<br>
-<p align="left">
-  - Conclusión:
-En resumen, la gráfica ilustra cómo el volumen de ventas de aguacates ha fluctuado a lo largo del tiempo, con picos en ciertos meses y una tendencia creciente general. Estos datos son útiles para prever futuros patrones de demanda y para tomar decisiones estratégicas relacionadas con la distribución y los precios.
-</p>
+## Introducción
+La gráfica muestra la tendencia del precio promedio mensual de los aguacates entre 2015 y 2018. Los puntos y líneas permiten ver las fluctuaciones de los precios a lo largo del tiempo.
+
+## Fluctuaciones y Picos
+Se observa una caída de precios entre 2015 y principios de 2016, alcanzando su punto más bajo (alrededor de 1.2 dólares). Luego, hay un pico máximo en 2017, donde los precios superan los 1.8 dólares.
+
+## Tendencia General
+A pesar de las subidas y bajadas, hay una tendencia al alza en los precios desde 2016 hasta mediados de 2017, lo que sugiere un aumento en la demanda o factores externos que impactaron el mercado.
+
+## Ciclicidad
+Se perciben patrones cíclicos con momentos de caída y recuperación, posiblemente relacionados con la estacionalidad de la oferta y la demanda.
+
+## Conclusión
+En resumen, la gráfica muestra una gran variabilidad en los precios, con una tendencia general creciente. Esto refleja cambios en la demanda y factores del mercado, útiles para analizar patrones y prever futuros comportamientos.
 
 <div align="center">
 
