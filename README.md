@@ -19,7 +19,7 @@
 ###
 
 <div align="center">
-  ![image](https://github.com/user-attachments/assets/1762dcf3-9371-40b4-8dc9-21502c775159)
+  [image](https://github.com/user-attachments/assets/1762dcf3-9371-40b4-8dc9-21502c775159)
 
 </div>
 
