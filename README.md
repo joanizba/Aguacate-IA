@@ -118,8 +118,6 @@ Aunque no es tan marcado, podemos percibir una posible estacionalidad en las ven
 En resumen, la gráfica ilustra cómo el volumen de ventas de aguacates ha fluctuado a lo largo del tiempo, con picos en ciertos meses y una tendencia creciente general. Estos datos son útiles para prever futuros patrones de demanda y para tomar decisiones estratégicas relacionadas con la distribución y los precios.
 </p>
 
-<p align="left">Hello World!!</p>
-
 <div align="center">
 
 ![1 2](https://github.com/user-attachments/assets/11b491e9-8eb1-49ef-b6c5-8ef2c8450427)
@@ -236,7 +234,6 @@ En 2017, la variabilidad de precios fue mayor en muchas regiones, lo que puede h
   - Conclusión:
 Este análisis nos da una visión detallada de cómo el precio promedio de los aguacates ha variado no solo en el tiempo, sino también dependiendo de la región. Esto es útil para prever futuras tendencias en el mercado y tomar decisiones basadas en cómo los precios se comportan en diferentes zonas del país.
 </p>
-###
 
 <div align="center">
 
@@ -245,8 +242,6 @@ Este análisis nos da una visión detallada de cómo el precio promedio de los a
 
 </div>
 
-
-
 ###
 
 <h2 align="left">2.3 Gráfico de Líneas de Precios Promedios por Año</h2>
@@ -254,31 +249,43 @@ Este análisis nos da una visión detallada de cómo el precio promedio de los a
 ###
 <p align="left">
   - Tendencia:
-2015: El precio promedio comienza alrededor de 1,425.
-2016: Hay una ligera caída del precio promedio, bajando a aproximadamente 1,385.
-2017: Se produce un pico importante, donde el precio sube abruptamente hasta alrededor de 1,560, el valor más alto en toda la gráfica.
-2018: El precio vuelve a descender, situándose alrededor de 1,400.
+- 2015: El precio promedio comienza alrededor de 1,425.
+<br>
+- 2016: Hay una ligera caída del precio promedio, bajando a aproximadamente 1,385.
+<br>
+- 2017: Se produce un pico importante, donde el precio sube abruptamente hasta alrededor de 1,560, el valor más alto en toda la gráfica.
+<br>
+- 2018: El precio vuelve a descender, situándose alrededor de 1,400.
+<br>
 </p>
 <br>
 <p align="left">
-  - Posible explicación del pico en 2017:
+  - Subida de precios de 2016 a 2017:
 El aumento drástico del precio promedio en 2017 podría deberse a diferentes factores económicos o específicos del mercado, tales como:
-  
-- Incremento en la demanda: Una mayor demanda de bienes o servicios podría haber impulsado los precios.
-Reducción en la oferta: Si hubo menos oferta disponible en 2017, los precios habrían subido para equilibrar el mercado.
 <br>
-- Factores externos: Inflación, problemas logísticos, cambios en políticas o eventos extraordinarios (como crisis financieras o eventos naturales) pueden haber afectado los precios.
+  - Mayor demanda internacional: El auge del consumo de aguacates en mercados como Estados Unidos y Europa, impulsado por tendencias de alimentación saludable.
+  <br>
+  - Tendencias de consumo saludable y dietas que promueven el aguacate (como la dieta keto o vegetariana) pudieron impulsar la demanda.
 <br>
-- Ciclos económicos: Los precios pueden tener patrones cíclicos, donde ciertos años registran picos por causas estacionales o estructurales.
+  - Costos externos: Incrementos en costos de transporte, producción y fluctuaciones en el tipo de cambio, encareciendo las exportaciones.
+  <br>
+<p align="left">
+  - Bajada de precios de 2017 a 2018:
+La caída de precios pudo explicarse por:
+  <br>
+  - Aumento en la oferta: Mejoras climáticas y expansión de áreas de cultivo permitieron una producción mayor y más estable.
+  <br>
+  - Corrección del mercado: Después del pico de 2017, el mercado se ajustó, eliminando factores especulativos y reduciendo precios.
+  <br>
+  - Reducción de la demanda: Los altos precios de 2017 pudieron haber disminuido el consumo, llevando a una caída en la demanda en 2018.
+  <br>
 </p>
 <br>
 <p align="left">
   - Conclusión:
-En resumen, el pico de 2017 indica un comportamiento atípico o una perturbación en el mercado, mientras que la tendencia general muestra cierta volatilidad en los precios promedio a lo largo del tiempo.
+En conclusión, mientras que el incremento de 2016 a 2017 fue impulsado principalmente por un desequilibrio entre oferta y demanda, la caída de 2017 a 2018 estuvo relacionada con la corrección del mercado y una mayor producción que equilibró la oferta.
 </p>
-###
-###
-
+<br>
 <div align="center">
 
 
@@ -292,7 +299,72 @@ En resumen, el pico de 2017 indica un comportamiento atípico o una perturbació
 
 ###
 
-<h1 align="left">3.1 Elasticidad Precio-Demanda por Año</h1>
+<h2 align="left">3.1 Comparación de Elasticidad en Diferentes Mercados</h2>
+
+###
+
+<p align="left">
+  - Introducción:
+La gráfica muestra la elasticidad precio-demanda promedio para tres regiones: Spokane, Hartford-Springfield y New York. Por otro lado, la elasticidad negativa indica que, al subir el precio, la demanda disminuye.
+</p>
+<br>
+<p align="left">
+  - Explicación de la Elasticidad Precio-Demanda:
+  <br>
+  - Spokane:
+  <br>
+    - Elasticidad promedio ≈ -35.
+  <br>
+    - La demanda en esta región es menos elástica, es decir, menos sensible a los cambios de precio.
+  <br>
+    - Esto podría sugerir que los consumidores en Spokane dependen menos del precio o tienen menos opciones de sustitutos.
+  <br>
+  - Hartford-Springfield:
+  <br>
+    - Elasticidad promedio ≈ -55.
+  <br>
+    - La demanda en esta región es más sensible a las variaciones de precio que en Spokane.
+  <br>
+    - Esto indica un comportamiento más reactivo ante aumentos o disminuciones en los precios.
+  <br>
+  - New York:
+  <br>
+    - Elasticidad promedio ≈ -58.
+  <br>
+    - Es la región con la demanda más elástica, mostrando la mayor sensibilidad a cambios de precio.
+  <br>
+    - Esto sugiere un mercado más competitivo o consumidores más atentos al precio.
+  <br>
+    - Spokane: Menor sensibilidad al precio. La elasticidad de -35 sugiere un mercado más estable ante fluctuaciones.
+  <br>
+</p>
+<p align="left">
+  - Comparación entre Regiones
+  <br>
+  - Hartford-Springfield: 
+  <br>
+    - Elasticidad intermedia de -55, reflejando una sensibilidad moderada.
+  <br>
+    - New York: Máxima sensibilidad con -58, lo que indica que los consumidores ajustan más su consumo cuando los precios cambian.
+  <br>
+-Interpretación General:
+  <br>
+  - Spokane: Posiblemente sufre menor competencia o dependencia del producto.
+  <br>
+  - New York: Mayor disponibilidad de alternativas o mayor conciencia de precios.
+  <br>
+-Conclusión:
+  <br>
+  - Las regiones con alta elasticidad (como New York) deben tener estrategias de precios cuidadosas, ya que un aumento significativo podría reducir la demanda. Y en regiones con baja elasticidad (como Spokane), los consumidores son menos reactivos al precio, lo que sugiere un mercado más estable.
+</p>
+<br>
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
+###
+
+<h2 align="left">3.2 Análisis de Elasticidad Comparativa entre Orgánicos y Convencionales</h2>
 
 ###
 
@@ -304,35 +376,7 @@ En resumen, el pico de 2017 indica un comportamiento atípico o una perturbació
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
-###
-
-<h2 align="left">3.2 Comparación de Elasticidad en Diferentes Mercados</h2>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
-
-<h2 align="left">3.3 Análisis de Elasticidad Comparativa entre Orgánicos y Convencionales</h2>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-<h2 align="left">3.4 Análisis de la Elasticidad Precios-Ventas</h2>
+<h2 align="left">3.3 Análisis de la Elasticidad Precios-Ventas</h2>
 
 ###
 
