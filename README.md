@@ -218,29 +218,32 @@ En resumen, el gráfico muestra una gran variabilidad en los precios de los agua
 ###
 
 <p align="left">
-  - Introducción:
-La gráfica muestra la distribución del volumen total de ventas en una región seleccionada ("GreaterRegion"). Es una gráfica de violín que combina un diagrama de caja y un histograma suavizado para representar cómo se distribuyen los datos de ventas.
-</p>
-<br>
-<p align="left">
-  - Distribución de los Datos:
-Se observa que el volumen total de ventas está concentrado en un rango específico, con una mayor densidad alrededor de valores cercanos al centro de la distribución. La anchura del "violín" indica dónde se agrupan más los datos, mientras que en los extremos la densidad es menor.
-</p>
-<br>
-<p align="left">
-  - Variabilidad:
-La forma de la gráfica muestra que hay una variabilidad moderada en los volúmenes de ventas, con valores que van desde muy bajos hasta niveles más altos. Sin embargo, los datos tienden a concentrarse hacia la parte central, lo que sugiere que la mayoría de las ventas están en un rango medio.
-</p>
-<br>
-<p align="left">
-  - Valores Centrales:
-La línea central dentro del "violín" corresponde al rango intercuartil, donde se encuentran el 50% de los datos más cercanos al valor central (la mediana). Este rango es estrecho, indicando que los valores centrales de ventas no varían mucho.
-</p>
-<br>
-<p align="left">
-  - Conclusión:
-En resumen, la gráfica muestra que la distribución del volumen total de ventas en la región tiene una concentración clara en el centro, aunque existen valores extremos con menor frecuencia. Esto permite entender la dispersión y tendencia central de los datos, lo que es útil para analizar el comportamiento general de las ventas en la región seleccionada.
-</p>
+## Introducción
+- La gráfica muestra la distribución del volumen total de ventas en una región seleccionada ("GreaterRegion").
+- Es una gráfica de violín que combina:
+  - Un diagrama de caja.
+  - Un histograma suavizado.
+- Representa cómo se distribuyen los datos de ventas.
+
+## Distribución de los Datos
+- El volumen de ventas está concentrado en un rango específico.
+- Hay una mayor densidad en los valores cercanos al centro de la distribución.
+- La anchura del "violín" indica dónde se agrupan más los datos.
+- En los extremos, la densidad de los datos es menor.
+
+## Variabilidad
+- La forma del gráfico muestra una variabilidad moderada en los volúmenes de ventas.
+- Los valores van desde muy bajos hasta niveles más altos.
+- La mayoría de las ventas se concentran en el rango medio.
+
+## Valores Centrales
+- La línea central dentro del "violín" corresponde al rango intercuartil (el 50% de los datos más cercanos a la mediana).
+- Este rango es estrecho, lo que indica que los valores centrales de ventas no varían mucho.
+
+## Conclusión
+- La gráfica muestra una concentración de ventas en el centro, con algunos valores extremos de menor frecuencia.
+- Esto permite entender la dispersión y tendencia central de los datos.
+- Es útil para analizar el comportamiento general de las ventas en la región seleccionada.
 
 ###
 
@@ -257,24 +260,24 @@ En resumen, la gráfica muestra que la distribución del volumen total de ventas
 ###
 
 <p align="left">
-  - Introducción:
-La gráfica muestra la distribución del precio promedio de aguacates por región entre los años de 2015 a 2018. Se trata de una gráfica de cajas (boxplot) que muestra la dispersión de los precios en cada región a lo largo de esos años. Cada color representa una región diferente, lo que facilita la comparación entre ellas.
-</p>
-<br>
-<p align="left">
-  - Distribución y Variabilidad:
-La gráfica muestra la distribución de los precios promedio de los aguacates por región. Las cajas representan el rango intercuartil y la mediana está marcada por la línea central. Los puntos fuera de la caja son valores atípicos. En general, los precios se concentran alrededor de la mediana, con algunas regiones como California mostrando precios más altos y otras como Great Lakes más bajos y estables.
-</p>
-<br>
-<p align="left">
-  - Tendencias y Patrones:
-En 2017, la variabilidad de precios fue mayor en muchas regiones, lo que puede haber sido causado por factores externos como cambios en la producción o la demanda. En 2015 y 2018, los precios fueron más constantes, lo que indica menos fluctuación.
-</p>
-<br>
-<p align="left">
-  - Conclusión:
-Este análisis nos da una visión detallada de cómo el precio promedio de los aguacates ha variado no solo en el tiempo, sino también dependiendo de la región. Esto es útil para prever futuras tendencias en el mercado y tomar decisiones basadas en cómo los precios se comportan en diferentes zonas del país.
-</p>
+# Distribución del Precio Promedio de Aguacates por Región (2015-2018)
+
+## Descripción general
+La gráfica muestra la distribución del **precio promedio de aguacates** por **región** entre los años de **2015 a 2018**. Se trata de una **gráfica de cajas** (boxplot) que presenta la dispersión de los precios en cada región a lo largo de esos años.  
+Cada color en la gráfica representa una **región diferente**, lo que facilita la **comparación** entre ellas.
+
+## Distribución y Variabilidad
+- Cada **caja** representa el **rango intercuartil** del precio (el **50% de los datos**), y la línea en el centro de la caja es la **mediana** de los precios.
+- Los **puntos fuera de la caja** son **valores atípicos**, que representan precios mucho más altos o más bajos que el rango general.
+- **California** muestra precios consistentemente más **altos**, mientras que **Great Lakes** tiene precios más **bajos** y **estables**.
+- A lo largo de los años, se observa que en **2017** hubo más **dispersión**, indicando mayor **fluctuación** de los precios.
+
+## Tendencias y Patrones
+- En **2017**, la **variabilidad de precios** fue mayor en muchas regiones, lo que puede haber sido causado por factores externos como cambios en la **producción** o la **demanda**.
+- En **2015** y **2018**, los precios fueron más **constantes**, lo que indica menos **fluctuación**.
+
+## Conclusión
+Este análisis proporciona una visión detallada de cómo el **precio promedio de los aguacates** ha variado no solo a lo largo del tiempo, sino también dependiendo de la **región**. Este enfoque es útil para prever futuras **tendencias** en el mercado y tomar **decisiones** basadas en cómo los precios se comportan en diferentes zonas del país.
 
 <div align="center">
 
@@ -289,46 +292,30 @@ Este análisis nos da una visión detallada de cómo el precio promedio de los a
 
 ###
 <p align="left">
-  - Tendencia:
-- 2015: El precio promedio comienza alrededor de 1,425.
-<br>
-- 2016: Hay una ligera caída del precio promedio, bajando a aproximadamente 1,385.
-<br>
-- 2017: Se produce un pico importante, donde el precio sube abruptamente hasta alrededor de 1,560, el valor más alto en toda la gráfica.
-<br>
-- 2018: El precio vuelve a descender, situándose alrededor de 1,400.
-<br>
-</p>
-<br>
-<p align="left">
-  - Subida de precios de 2016 a 2017:
-El aumento drástico del precio promedio en 2017 podría deberse a diferentes factores económicos o específicos del mercado, tales como:
-<br>
-  - Mayor demanda internacional: El auge del consumo de aguacates en mercados como Estados Unidos y Europa, impulsado por tendencias de alimentación saludable.
-  <br>
-  - Tendencias de consumo saludable y dietas que promueven el aguacate (como la dieta keto o vegetariana) pudieron impulsar la demanda.
-<br>
-  - Costos externos: Incrementos en costos de transporte, producción y fluctuaciones en el tipo de cambio, encareciendo las exportaciones.
-  <br>
-<p align="left">
-  - Bajada de precios de 2017 a 2018:
-La caída de precios pudo explicarse por:
-  <br>
-  - Aumento en la oferta: Mejoras climáticas y expansión de áreas de cultivo permitieron una producción mayor y más estable.
-  <br>
-  - Corrección del mercado: Después del pico de 2017, el mercado se ajustó, eliminando factores especulativos y reduciendo precios.
-  <br>
-  - Reducción de la demanda: Los altos precios de 2017 pudieron haber disminuido el consumo, llevando a una caída en la demanda en 2018.
-  <br>
-</p>
-<br>
-<p align="left">
-  - Conclusión:
-En conclusión, mientras que el incremento de 2016 a 2017 fue impulsado principalmente por un desequilibrio entre oferta y demanda, la caída de 2017 a 2018 estuvo relacionada con la corrección del mercado y una mayor producción que equilibró la oferta.
-</p>
-<br>
-<div align="center">
+# Análisis de la Tendencia de Precios de Aguacates (2015-2018)
 
+## Tendencia
+- **2015**: El precio promedio comienza alrededor de **1.425 dólares**.
+- **2016**: Hay una ligera caída del precio promedio, bajando a aproximadamente **1.385 dólares**.
+- **2017**: Se produce un **pico importante**, donde el precio sube abruptamente hasta alrededor de **1.560 dólares**, el valor más alto en toda la gráfica.
+- **2018**: El precio vuelve a descender, situándose alrededor de **1.400 dólares**.
+
+## Subida de precios de 2016 a 2017
+El aumento drástico del precio promedio en 2017 podría deberse a diferentes factores económicos o específicos del mercado, tales como:
+
+- **Mayor demanda internacional**: El auge del consumo de aguacates en mercados como Estados Unidos y Europa, impulsado por tendencias de alimentación saludable.
+- **Tendencias de consumo saludable**: Dietas como la keto o vegetariana pudieron haber impulsado la demanda del aguacate.
+- **Costos externos**: Incrementos en los **costos de transporte**, **producción** y fluctuaciones en el **tipo de cambio**, encareciendo las exportaciones.
+
+## Bajada de precios de 2017 a 2018
+La caída de precios en este período pudo explicarse por:
+
+- **Aumento en la oferta**: Mejoras climáticas y expansión de áreas de cultivo permitieron una producción mayor y más estable.
+- **Corrección del mercado**: Después del pico de 2017, el mercado se ajustó, eliminando factores especulativos y reduciendo los precios.
+- **Reducción de la demanda**: Los altos precios de 2017 pudieron haber disminuido el consumo, llevando a una caída en la demanda en 2018.
+
+## Conclusión
+En conclusión, mientras que el incremento de 2016 a 2017 fue impulsado principalmente por un desequilibrio entre **oferta y demanda**, la caída de 2017 a 2018 estuvo relacionada con la **corrección del mercado** y una mayor **producción** que equilibró la oferta.
 
   ![2 3](https://github.com/user-attachments/assets/ec55f53b-cb00-4074-ba3e-31e800bcd153)
 
