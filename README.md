@@ -400,7 +400,10 @@ En conclusión, mientras que el incremento de 2016 a 2017 fue impulsado principa
 - En regiones con **baja elasticidad** (como **Spokane**), los consumidores son **menos reactivos** al precio, lo que sugiere un **mercado más estable**.
 ###
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+
+  
+  ![3 1](https://github.com/user-attachments/assets/4d11d298-1d53-4581-b805-f8f1609bd779)
+
 </div>
 
 ###
@@ -471,7 +474,10 @@ En conclusión, mientras que el incremento de 2016 a 2017 fue impulsado principa
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+
+![3 2](https://github.com/user-attachments/assets/69c6a549-0d03-4fbf-af5a-88addafa444b)
+
+ 
 </div>
 
 <h2 align="left">3.3 Análisis de la Elasticidad Precios-Ventas</h2>
@@ -527,7 +533,10 @@ En conclusión, mientras que el incremento de 2016 a 2017 fue impulsado principa
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+
+
+  ![3 3](https://github.com/user-attachments/assets/7bf55512-93d9-4b0d-844a-dc29fd30c7cc)
+
 </div>
 
 ###
