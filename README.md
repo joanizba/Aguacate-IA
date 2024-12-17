@@ -361,7 +361,7 @@ pendiente negativa, lo que indica que a medida que Total Volume aumenta, Average
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">La imagen muestra una representación gráfica de la relación entre Total Volume (volumen total) y Average Price (precio promedio) junto con dos modelos de tendencia: lineal (en azul) y polinómica de segundo grado (en rojo punteado)</p>
 
 ###
 
@@ -371,5 +371,25 @@ pendiente negativa, lo que indica que a medida que Total Volume aumenta, Average
 ![5 9](https://github.com/user-attachments/assets/80c8ca48-85c5-4599-a9cc-7a81e7cfa684)
 
 </div>
+
+<p align="left">Gráfico de dispersión:
+
+Cada punto muestra la relación entre Total Volume (volumen total) y Average Price (precio promedio).
+Los puntos se concentran en valores bajos de Total Volume y muestran una tendencia descendente: al aumentar el volumen, el precio tiende a disminuir.
+Se observa una ligera curvatura, indicando que la relación no es completamente lineal.</p><br>
+<p align="left">Línea de tendencia lineal (azul sólida):
+
+Modelo de regresión lineal con pendiente negativa.
+Representa que al aumentar el Total Volume, el Average Price baja.
+La banda azul clara indica mayor incertidumbre en valores altos de volumen.</p><br>
+
+<p align="left">Tendencia polinómica de segundo grado (roja punteada):
+
+Modelo cuadrático que captura mejor la curvatura de los datos.
+Es más preciso que la regresión lineal, especialmente en valores bajos y altos de volumen.</p><br>
+<p align="left">Comparación de modelos:
+
+Regresión Lineal: Sencilla pero no captura la curvatura; funciona bien en valores centrales.
+Regresión Polinómica: Más flexible y ajustada, aunque la curvatura es ligera.</p>
 
 ###
