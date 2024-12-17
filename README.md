@@ -55,24 +55,34 @@
 
 <h2 align="left">1.1 Descomposición de Series Temporales de Precios</h2>
 <p align="left">
-# - Introducción:
+  - Introducción:
 Esta gráfica muestra la descomposición de la serie temporal de los precios promedio de aguacates. Se separa en tres componentes: tendencia, estacionalidad y residuos.
+</p>
+<br>
+<p align="left">
   - Serie Original:
 La parte superior muestra la serie original, donde se observan las fluctuaciones de los precios a lo largo del tiempo.
+</p>
+<br>
+<p align="left">
   - Tendencia:
 El segundo gráfico muestra la tendencia, que indica la dirección general de los precios. Aquí, los precios han tenido una tendencia ligeramente descendente.
+</p>
+<br>
+<p align="left">
   - Estacionalidad:
 El tercer gráfico muestra la estacionalidad, que resalta las variaciones regulares y predecibles en los precios, como picos y valles, a lo largo de los años.
+</p>
+<br>
+<p align="left">
   - Residuos:
 Finalmente, los residuos son las fluctuaciones aleatorias que no se explican por la tendencia ni la estacionalidad. Aparecen dispersos alrededor de la línea base.
+</p>
+<br>
+<p align="left">
   - Conclusión:
 En resumen, la descomposición nos ayuda a entender cómo los precios varían por la tendencia general, los patrones estacionales y las fluctuaciones aleatorias, lo que es útil para análisis futuros.
 </p>
-
-###
-
-<p align="left">Hello World!!</p>
-
 ###
 
 <div align="center">
@@ -84,7 +94,31 @@ En resumen, la descomposición nos ayuda a entender cómo los precios varían po
 ###
 
 <h2 align="left">1.2 Tendencia de Ventas a lo Largo del Tiempo</h2>
-
+<p align="left">
+  - Introducción:
+Esta gráfica muestra la tendencia del volumen total de ventas de aguacates a lo largo del tiempo. Los puntos verdes representan los datos mensuales de ventas, conectados por líneas que permiten visualizar la evolución del volumen de ventas.
+</p>
+<br>
+<p align="left">
+  - Fluctuaciones y Picos:
+Podemos observar una gran variabilidad en los datos, con picos notables en ciertos momentos. Por ejemplo, se destacan picos altos en febrero de 2015, febrero de 2016 y febrero de 2017, lo que indica que en esos meses hubo un aumento significativo en las ventas de aguacates.
+</p>
+<br>
+<p align="left">
+  - Tendencia General:
+A pesar de los picos, podemos ver que el volumen de ventas tiene una tendencia general creciente después de 2015, con un incremento sostenido en los últimos años, lo que indica un aumento en la demanda de aguacates.
+</p>
+<br>
+<p align="left">
+  - Ciclicidad:
+Aunque no es tan marcado, podemos percibir una posible estacionalidad en las ventas, con algunos picos y valles que se repiten en ciertos meses del año, como en febrero y agosto.
+</p>
+<br>
+<p align="left">
+  - Conclusión:
+En resumen, la gráfica ilustra cómo el volumen de ventas de aguacates ha fluctuado a lo largo del tiempo, con picos en ciertos meses y una tendencia creciente general. Estos datos son útiles para prever futuros patrones de demanda y para tomar decisiones estratégicas relacionadas con la distribución y los precios.
+</p>
+###
 ###
 
 <p align="left">Hello World!!</p>
