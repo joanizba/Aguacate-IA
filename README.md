@@ -247,7 +247,7 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">El análisis de cohorte en función del tamaño de bolsa, vemos claramente que las de tipo Small Bags son las más vendidas. No obstante, son las más inestables también. Aunque las Large Bags se venden en menor cantidad, su volumen de venta es mucho más estable, lo que podría indicar una preferencia de compra por parte de los clientes.</p>
 
 ###
 
@@ -257,7 +257,13 @@
   ![4 3](https://github.com/user-attachments/assets/881493f6-874d-41ba-bd06-4ceb60f8c857)
 
 </div>
+<div algin="center">
 
+
+
+  ![4 3 1](https://github.com/user-attachments/assets/08cdbcba-d3da-42d5-9379-a63d5da024bd)
+
+</div>
 ###
 
 <h1 align="left">5. Correlación y regresión</h1>
