@@ -275,7 +275,10 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+
+
+ ![5 1](https://github.com/user-attachments/assets/65235a73-b7df-4fed-bd1f-2405d61e8bd0)
+
 </div>
 
 ###
@@ -289,7 +292,10 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+
+  
+![5 2](https://github.com/user-attachments/assets/c438a870-a249-487b-8d28-afd332dba555)
+
 </div>
 
 ###
@@ -303,7 +309,53 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+
+
+![5 3 b](https://github.com/user-attachments/assets/a45dbd74-df99-4214-a415-a9895622c8fe)
+
+</div>
+<div align="center">
+
+
+![5 3 a](https://github.com/user-attachments/assets/06274cfb-95da-4ae3-aa4e-7de6a8f6308a)
+
+</div>
+
+###
+
+<h2 align="left">5.4</h2>
+
+###
+
+<p align="left">Hello World!!</p>
+
+###
+
+<div align="center">
+
+
+![5 8](https://github.com/user-attachments/assets/3c68c45f-f992-4465-90d2-2474c219cc4e)
+
+</div>
+<div align="center">
+
+  ![5 8 2](https://github.com/user-attachments/assets/bac7466c-b23f-473c-a1d1-80fd1529a251)
+
+</div>
+###
+<h2 align="left">5.5</h2>
+
+###
+
+<p align="left">Hello World!!</p>
+
+###
+
+<div align="center">
+
+
+![5 9](https://github.com/user-attachments/assets/80c8ca48-85c5-4599-a9cc-7a81e7cfa684)
+
 </div>
 
 ###
