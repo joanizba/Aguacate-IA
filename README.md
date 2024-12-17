@@ -20,7 +20,8 @@
 
 <div align="center">
 
-![trello](https://github.com/user-attachments/assets/a61fe315-c95c-4637-a776-9e2e167dfb8f)
+
+![USA-regions_coloreado](https://github.com/user-attachments/assets/66da8efc-0d22-4f5b-99aa-13358bd1fbaf)
 
 </div>
 
