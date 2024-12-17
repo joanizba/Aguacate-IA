@@ -99,7 +99,7 @@
 
 ###
 
-<h2 align="left">2.1</h2>
+<h2 align="left">2.1 Gráfico de Violín de Volumen de Ventas por Región</h2>
 
 ###
 
@@ -115,7 +115,7 @@
 
 ###
 
-<h2 align="left">2.3</h2>
+<h2 align="left">2.3 Boxplot Comparativo de Precios entre Años</h2>
 
 ###
 
@@ -134,7 +134,7 @@
 
 ###
 
-<h2 align="left">2.6</h2>
+<h2 align="left">2.3 Gráfico de Líneas de Precios Promedios por Año</h2>
 
 ###
 
