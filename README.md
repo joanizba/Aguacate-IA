@@ -54,6 +54,20 @@
 ###
 
 <h2 align="left">1.1 Descomposición de Series Temporales de Precios</h2>
+<p align="left">
+  - Introducción:
+Esta gráfica muestra la descomposición de la serie temporal de los precios promedio de aguacates. Se separa en tres componentes: tendencia, estacionalidad y residuos.
+  - Serie Original:
+La parte superior muestra la serie original, donde se observan las fluctuaciones de los precios a lo largo del tiempo.
+  - Tendencia:
+El segundo gráfico muestra la tendencia, que indica la dirección general de los precios. Aquí, los precios han tenido una tendencia ligeramente descendente.
+  - Estacionalidad:
+El tercer gráfico muestra la estacionalidad, que resalta las variaciones regulares y predecibles en los precios, como picos y valles, a lo largo de los años.
+  - Residuos:
+Finalmente, los residuos son las fluctuaciones aleatorias que no se explican por la tendencia ni la estacionalidad. Aparecen dispersos alrededor de la línea base.
+  - Conclusión:
+En resumen, la descomposición nos ayuda a entender cómo los precios varían por la tendencia general, los patrones estacionales y las fluctuaciones aleatorias, lo que es útil para análisis futuros.
+</p>
 
 ###
 
@@ -161,7 +175,7 @@
 
 ###
 
-<h2 align="left">3.1 Comparación de Elasticidad en Diferentes Mercados</h2>
+<h1 align="left">3.1 Elasticidad Precio-Demanda por Año</h1>
 
 ###
 
@@ -170,14 +184,12 @@
 ###
 
 <div align="center">
-  
-  ![3 2](https://github.com/user-attachments/assets/39e9a51b-a2f7-4394-9020-61f4f5afb1fa)
-
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
 ###
 
-<h2 align="left">3.2 Análisis de Elasticidad Comparativa entre Orgánicos y Convencionales</h2>
+<h2 align="left">3.2 Comparación de Elasticidad en Diferentes Mercados</h2>
 
 ###
 
@@ -186,12 +198,12 @@
 ###
 
 <div align="center">
-  
-  ![3 3](https://github.com/user-attachments/assets/d779e538-aedc-4f42-bcf5-5baea805477b)
-
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
-<h2 align="left">3.3 Análisis de la Elasticidad Precios-Ventas</h2>
+###
+
+<h2 align="left">3.3 Análisis de Elasticidad Comparativa entre Orgánicos y Convencionales</h2>
 
 ###
 
@@ -200,9 +212,19 @@
 ###
 
 <div align="center">
-  
-![3 4](https://github.com/user-attachments/assets/1244d70f-0b48-43af-951d-ca87a4f07138)
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
 
+<h2 align="left">3.4 Análisis de la Elasticidad Precios-Ventas</h2>
+
+###
+
+<p align="left">Hello World!!</p>
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
 ###
