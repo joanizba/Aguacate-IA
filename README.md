@@ -17,7 +17,7 @@
 <h1 align="left">Planificación</h1>
 
 ###
-
+<p align="left">En este trabajo, hemos dividido las tareas en tres categorías: pendientes, en progreso y completadas. Entre las tareas pendientes tenemos el análisis de series temporales, donde descompondremos los precios de los aguacates para identificar tendencias y estacionalidades; la creación de gráficos para la visualización de datos, que nos permitirá presentar los resultados de manera clara; y el cálculo de la elasticidad del precio, para entender cómo los cambios en los precios afectan la demanda. En las tareas en progreso, estamos trabajando en la matriz de correlación para explorar las relaciones entre variables clave, el análisis de dispersión entre variables, que nos ayudará a visualizar cómo se distribuyen los datos, y las predicciones mensuales, trimestrales y anuales, que nos permitirán anticipar el comportamiento del mercado. Finalmente, en las tareas completadas, ya hemos desarrollado el gráfico de violín del volumen de ventas por región, un gráfico de líneas de precios promedio por año, y el análisis de cambios en precios anuales, lo que nos da una visión clara de las fluctuaciones del mercado. Con esta planificación, esperamos completar las tareas pendientes y lograr un análisis exhaustivo que nos permita hacer recomendaciones informadas sobre la venta de aguacates.
 <div align="center">
 
 
