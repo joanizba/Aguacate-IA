@@ -170,29 +170,30 @@ En resumen, la gráfica ilustra cómo el volumen de ventas de aguacates ha fluct
 ###
 
 <p align="left">
-  - Introducción:
-La gráfica muestra la tendencia del precio promedio mensual de los aguacates entre 2015 y 2018. Los puntos y líneas permiten ver las fluctuaciones de los precios a lo largo del tiempo.
-</p>
-<br>
-<p align="left">
-  - Fluctuaciones y Picos:
-Podemos observar una gran variabilidad en los precios a lo largo del tiempo, con caídas y subidas marcadas. Un detalle importante es el pico máximo que se alcanza en mediados de 2017, donde el precio supera los 1.8 dólares. Esto representa un aumento significativo en comparación con otros períodos.
-Por otro lado, también se nota una caída pronunciada entre finales de 2015 y principios de 2016, donde el precio llega a su punto más bajo, cercano a 1.2 dólares.
-</p>
-<br>
-<p align="left">
-  - Tendencia General:
-A lo largo de los años, la gráfica refleja una tendencia general ascendente en los precios, especialmente desde mediados de 2016 hasta 2017, donde se observa un incremento sostenido. Este comportamiento sugiere un aumento en la demanda o posibles factores externos que afectaron la disponibilidad del producto, como la producción o el mercado internacional.
-</p>
-<br>
-<p align="left">
-  - Ciclicidad:
-Aunque no es completamente regular, se pueden identificar patrones cíclicos en los precios, con períodos de caída seguidos de recuperación. Es posible que estos ciclos estén relacionados con factores estacionales, como la oferta limitada en ciertos meses o la mayor demanda en otros, lo cual explica las subidas y bajadas que se repiten parcialmente.
-</p>
-<br>
-<p align="left">
-  - Conclusión:
-En resumen, la gráfica muestra que los precios promedio mensuales de los aguacates presentan fluctuaciones importantes, con picos notables en 2017 y caídas destacadas en 2016. A pesar de estas variaciones, hay una tendencia general al alza, lo que podría indicar un aumento en la demanda a lo largo del tiempo. Estos datos son útiles para entender los patrones de precios y analizar cómo factores como la producción, el clima o el comercio afectan al mercado de los aguacates.
+## Introducción
+Este gráfico muestra la evolución de los precios promedio mensuales de los aguacates entre 2015 y 2018. Los ejes son simples: el eje X representa los meses y años, mientras que el eje Y muestra los precios en dólares. Al observar el gráfico, podemos ver cómo los precios fluctúan a lo largo del tiempo.
+
+## Presentación del Gráfico
+A lo largo del gráfico, se puede notar una clara variabilidad en los precios. Entre 2015 y principios de 2016, los precios experimentan una caída significativa, alcanzando su nivel más bajo. Sin embargo, en 2017 se observa un gran aumento, con un pico donde los precios superan los 1.8 dólares. Tras este aumento, los precios disminuyen nuevamente, pero nunca alcanzan los niveles bajos de 2016.
+
+## Análisis del Comportamiento
+El comportamiento de los precios se puede dividir en varias fases importantes:  
+- Entre 2015 y 2016, los precios caen hasta llegar a su mínimo histórico cerca de los 1.2 dólares.  
+- Desde mediados de 2016 hasta 2017, los precios suben y alcanzan un pico superior a los 1.8 dólares.  
+- Después del pico, aunque los precios bajan, no regresan a los niveles de 2016, sino que se estabilizan en un rango más alto.
+
+Este comportamiento puede estar relacionado con varios factores externos que influyen en el precio de los aguacates, tales como:  
+- **Oferta y demanda**: Cuando la oferta es escasa debido a problemas de producción o cosechas malas, los precios suben. Si la oferta aumenta, los precios tienden a bajar.  
+- **Problemas de producción o climáticos**: Factores como sequías o heladas pueden reducir la producción de aguacates, lo que lleva a un aumento en los precios debido a la menor disponibilidad.  
+- **Aumento de la demanda internacional**: Si hay un aumento en la demanda de aguacates en mercados internacionales, como Estados Unidos o Europa, esto puede generar una presión al alza en los precios.
+
+## Planificación de mi Trabajo
+Para analizar estos patrones en mi trabajo, investigaré más sobre los factores que pudieron haber influido en estas fluctuaciones de precios. Buscaré datos históricos y artículos que me ayuden a entender mejor la relación entre estos cambios y eventos específicos en el mercado. Además, utilizaré herramientas estadísticas para profundizar en las tendencias y estudiar la influencia de aspectos como la producción y la exportación.
+
+## Conclusión
+En resumen, el gráfico muestra una gran variabilidad en los precios de los aguacates a lo largo de los años. Este análisis me permitirá identificar las causas detrás de estas fluctuaciones y cómo impactan en el mercado. Al comprender estos factores, será posible proponer estrategias para estabilizar los precios en el futuro.
+
+
 </p>
 
 ###
