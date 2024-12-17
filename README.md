@@ -119,7 +119,7 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">Un boxplot muestra la mediana, la dispersión central (IQR), el rango de los datos (bigotes) y los outliers (valores extremos), permitiendo identificar la simetría o sesgo de la distribución y comparar la dispersión y medianas entre categorías o variables.</p>
 
 ###
 
