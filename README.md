@@ -103,7 +103,7 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">La distribución es uniforme y simétrica, con una alta concentración alrededor de la mediana, indicando que la mayoría de las ventas totales son intermedias. Los extremos delgados muestran pocos datos en valores muy bajos o muy altos, sugiriendo una distribución normal o ligeramente concentrada.</p>
 
 ###
 
