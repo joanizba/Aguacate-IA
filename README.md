@@ -55,7 +55,7 @@
 
 <h2 align="left">1.1 Descomposición de Series Temporales de Precios</h2>
 <p align="left">
-  - Introducción:
+# - Introducción:
 Esta gráfica muestra la descomposición de la serie temporal de los precios promedio de aguacates. Se separa en tres componentes: tendencia, estacionalidad y residuos.
   - Serie Original:
 La parte superior muestra la serie original, donde se observan las fluctuaciones de los precios a lo largo del tiempo.
